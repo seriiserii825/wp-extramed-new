@@ -106,6 +106,64 @@
 	</div>
 	<!--End Services-->
 
+    <div class="video">
+        <header class="video__head">
+            <blockquote class="video__cite">“Sănătatea nu este doar absența bolii.”</blockquote>
+            <h3 class="video__title">Hannah Green</h3>
+        </header>
+
+        <div class="video__file">
+	        <?php echo do_shortcode('[fvplayer id="1"]'); ?>
+        </div>
+
+        <div class="video-container">
+            <div class="video__item">
+                <p>Pentru a evalua starea de sănătate faceți o programare la Centru  Medical ,,Extramed,, unde o echipă de medici specialiști în obstetrică și ginecologie, ecografie, neonatologie, anesteziologie va poate consulta privind:</p>
+                <ul>
+                    <li>Planificare, pregătire preconcepțională pentru a naște un copil sănătos;</li>
+                    <li>Consiliere prenatală, evidență și monitorizare a sarcinii;</li>
+                    <li>Aprecierea stării intrauterine a fătului – CTG, USG, diagnosticul malformațiilor fetale;</li>
+                    <li>Naștere naturală – prezența soțului la naștere, asistență psiho-emoțională, analgezie medicamentoasa în naștere, analgezie epidurală în travaliu;</li>
+                    <li>Naștere prin operația cezariană;</li>
+                    <li>Îngrijire postoperatorie după intervenții obstetricale;</li>
+                    <li>Consiliere și încurajarea alaptătii nou-născutului;</li>
+                    <li>Consiliere în post-partum pentru o contracepție perfectă;</li>
+                    <li>Consultație , diagnostic și tratament al  diferitor  afecțiuni ginecologice;</li>
+                    <li>Diagnosticul și tratamentul stărilor precanceroase a colului;</li>
+                    <li>Efectuarea videocolposcopiei, citologiei de pe col;</li>
+                    <li>Diagnostic și tratament al infecțiilor cu transmisie sexuală;</li>
+                    <li>Tratamentul  dereglărilor de ciclu menstrual;</li>
+                    <li>Evitarea unei sarcini nedorite,alegerea unei metode perfecte, consiliere în administrarea contraceptivelor;</li>
+                    <li>Consiliere, investigații și tratament al diverselor probleme de sanătate în menopauză;</li>
+                </ul>
+            </div>
+            <div class="video__item">
+                <p>Efectuarea tuturor tipurilor de intervenții chirurgicale ginecologice:</p>
+                <ul>
+                    <li>Îngrijire postoperatorie după intervenții ginecologice;</li>
+                    <li>Consiliere, investigații, tratament conservativ și chirurgical al infertilității (tubare, ovariene, peritoniale);</li>
+                    <li>Diagnosticul, tratamentul conservativ și chirurgical al :
+                        <ul>
+                            <li>a) gravidității extrauterine,</li>
+                            <li>b) bolilor inflamatorii pelvine,</li>
+                            <li>c)tumorilor organelor genitale benigne (miom uterin, chist ovarian, endometrioza etc);</li>
+                        </ul>
+                    </li>
+                    <li>Diagnosticul, tratamentul chirurgical al stărilor de urgență în ginecologie: sarcină tubară, apoplexie ovariană, torsiune de chist ovarian etc);</li>
+                    <li>Diagnosticul, tratamentul conservativ și chirurgical al tulburărilor de statică pelvi-genitală (incontinență urinară de efort, prolaps genital);</li>
+                    <li>Marsupilizarea sau extirparea chistului glandei Bartholin, drenarea abcesului chistului glandei Bartholin ;</li>
+                    <li>Diagnosticul, tratamentul chirurgical al anomaliilor organelor genitale (uter, col, vagin, vulvă etc);</li>
+                    <li>Consiliere, tratament conservativ și chirurgical ( plastia colului, vaginoplastie, perineoplastie, himentomie, himenplastie etc). în ginecologia estetică.</li>
+                </ul>
+                <p>
+                    Centru Medical Extramed activează  24/24 ore.<br>
+                    Avem grijă de sănătatea Dumneavoastră.<br>
+                    Pentru programare  apelati  la tel. 068557000 sau 022843018
+                </p>
+            </div>
+        </div>
+    </div>
+<!--    video-->
 
 	<!--Start Welcome-->
 	<div class="welcome dark-back">

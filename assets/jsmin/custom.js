@@ -16,7 +16,6 @@ $(document).ready(function () {
 			"add": true,
 			"update": true
 		},
-
 	});
 });
 
@@ -26,9 +25,9 @@ $(document).ready(function () {
 <!-- Header One -->
 $(window).scroll(function () {
 	if ($(this).scrollTop() > 1) {
-		$('header').addClass("sticky");
+		$('.header').addClass("sticky");
 	} else {
-		$('header').removeClass("sticky");
+		$('.header').removeClass("sticky");
 	}
 });
 
